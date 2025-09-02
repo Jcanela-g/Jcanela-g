@@ -40,7 +40,7 @@ My mission is to build **efficient, scalable, and user-friendly applications** w
 ---
 
 ## 📈 GitHub Stats
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCanela1693&show_icons=true&theme=tokyonight)  
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcanela-g&show_icons=true&theme=tokyonight)  
 
 ---
 
