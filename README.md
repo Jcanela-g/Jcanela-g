@@ -49,5 +49,5 @@ My mission is to build **efficient, scalable, and user-friendly applications** w
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-canela-665330328/)  
 
 ## 📄 Resume
-- [View My Resume](https://github.com/JoseCanela1693/resume/blob/main/Jose_Canela_Resume.pdf)  
-- [Download My Resume](file:///C:/Users/josec/Downloads/Jose_Canela_Resume%20(1).pdf)
+- [View My Resume](https://github.com/Jcanela-g/resume/blob/main/Jose_Canela_Resume.pdf)  
+- [Download My Resume](https://github.com/Jcanela-g/resume/raw/main/Jose_Canela_Resume.pdf)
