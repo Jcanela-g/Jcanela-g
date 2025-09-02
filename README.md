@@ -50,4 +50,4 @@ My mission is to build **efficient, scalable, and user-friendly applications** w
 
 ## 📄 Resume
 - [View My Resume](https://github.com/JoseCanela1693/resume/blob/main/Jose_Canela_Resume.pdf)  
-- [Download My Resume](https://github.com/JoseCanela1693/resume/raw/main/Jose_Canela_Resume.pdf)
+- [Download My Resume](file:///C:/Users/josec/Downloads/Jose_Canela_Resume%20(1).pdf)
