@@ -47,4 +47,7 @@ My mission is to build **efficient, scalable, and user-friendly applications** w
 ## 📫 Let’s Connect
 - 📧 Email: **Jose.canela1693@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-canela-665330328/)  
-- 📝 [Resume PDF](link-to-resume)  
+
+## 📄 Resume
+- [View My Resume](https://github.com/JoseCanela1693/resume/blob/main/Jose_Canela_Resume.pdf)  
+- [Download My Resume](https://github.com/JoseCanela1693/resume/raw/main/Jose_Canela_Resume.pdf)
